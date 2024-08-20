@@ -50,17 +50,14 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+![image](https://github.com/user-attachments/assets/df93ee81-48f6-4914-8113-88ef4db2972e)
 comm file1 file2
  ## OUTPUT
-
- 
+ ![image](https://github.com/user-attachments/assets/d029ef16-1ead-4f69-a412-6b6fbf0e5e6e)
 diff file1 file2
 ## OUTPUT
-
-
+![image](https://github.com/user-attachments/assets/bef6da6f-498e-4e10-a04b-0d25f77ecbae)
 #Filters
-
 ### Create the following files file11, file22 as follows:
 
 cat > file11
